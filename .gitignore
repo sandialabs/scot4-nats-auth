@@ -1,9 +1,0 @@
-# Python bytecode
-__pycache__/
-*.py[cod]
-
-# Common local test/build artifacts
-.pytest_cache/
-.mypy_cache/
-.venv/
-venv/
